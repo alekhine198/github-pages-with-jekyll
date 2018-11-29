@@ -1,3 +1,7 @@
+---
+title: "My Blog"
+date: 2018-11-29
+---
 # Here's a header 
 ## What about another header
 
